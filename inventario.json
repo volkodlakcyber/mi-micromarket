@@ -1,8 +1,8 @@
 {
     "10": {
-        "nombre": "azucar 500 gr",
+        "nombre": "azucar morena",
         "precio": 5.0,
-        "stock": 1
+        "stock": 5
     },
     "47": {
         "nombre": "arroz 1 qq",
@@ -13,5 +13,10 @@
         "nombre": "sal",
         "precio": 8.0,
         "stock": 3
+    },
+    "002": {
+        "nombre": "pan",
+        "precio": 5.0,
+        "stock": 0
     }
 }
