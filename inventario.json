@@ -1,0 +1,12 @@
+{
+    "10": {
+        "nombre": "azucar 500 gr",
+        "precio": 5.0,
+        "stock": 3
+    },
+    "47": {
+        "nombre": "arroz 1 qq",
+        "precio": 800.0,
+        "stock": 3
+    }
+}
